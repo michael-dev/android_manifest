@@ -6,6 +6,9 @@
   <!-- LG-Spirit -->
   <project path="device/lge/c70n" name="LG-MSM8916/android_device_lge_c70n" remote="github" revision="lineage-15.1" />
 
+  <!-- LG-K10 -->
+  <project path="device/lge/m216" name="LG-MSM8916/android_device_lge_m216" remote="github" revision="lineage-15.1" />
+
   <!-- LGE MSM8916 Common -->
   <project path="device/lge/msm8916-common" name="LG-MSM8916/android_device_lge_msm8916-common" remote="github" revision="lineage-15.1" />
   <project path="kernel/lge/msm8916" name="LG-MSM8916/android_kernel_lge_msm8916" remote="github" revision="oreo" />
