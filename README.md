@@ -4,7 +4,7 @@ _LineageOS 15.1 for LGE MSM8916 Devices_
 the local manifests:
 
 	$ repo init -u git://github.com/LineageOS/android.git -b lineage-15.1
-	$ git clone https://github.com/LG-MSM8916/android_manifest -b lineage-15.1 .repo/local_manifests
+	$ git clone https://github.com/michael-dev/android_manifest -b lineage-15.1 .repo/local_manifests
 
 Apply Patches to LineageOS 15.1:
 
